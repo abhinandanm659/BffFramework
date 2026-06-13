@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BffFramework.Core", "BffFramework.Core\BffFramework.Core.csproj", "{200F3FC4-F4D7-4179-9927-3A9190CC26DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BffFramework.Host", "BffFramework.Host\BffFramework.Host.csproj", "{89299FFC-00FD-46F5-ADF7-4BE3AB85F947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200F3FC4-F4D7-4179-9927-3A9190CC26DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200F3FC4-F4D7-4179-9927-3A9190CC26DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200F3FC4-F4D7-4179-9927-3A9190CC26DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200F3FC4-F4D7-4179-9927-3A9190CC26DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89299FFC-00FD-46F5-ADF7-4BE3AB85F947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89299FFC-00FD-46F5-ADF7-4BE3AB85F947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89299FFC-00FD-46F5-ADF7-4BE3AB85F947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89299FFC-00FD-46F5-ADF7-4BE3AB85F947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
