@@ -1,0 +1,58 @@
+# Build results
+
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+
+.idea/
+
+# VS Code
+
+.vscode/
+
+# NuGet
+
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Test results
+
+TestResults/
+
+# Publish output
+
+publish/
+
+# .NET generated files
+
+*.cache
+*.pdb
+*.mdb
+
+# ASP.NET
+
+wwwroot/lib/
+
+# Secrets
+
+appsettings.*.local.json
+secrets.json
